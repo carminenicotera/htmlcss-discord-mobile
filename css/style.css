@@ -17,9 +17,14 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
-  background-size: contain;
-  height: 300px;
+  height: 270px;
   width: 100%;
 }
 
 /* #endregion Header */
+
+/* #region main */
+#site_main {
+  background-color: rgb(31, 31, 156);
+  min-height: 100vh;
+}
