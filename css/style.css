@@ -23,8 +23,28 @@ body {
 
 /* #endregion Header */
 
-/* #region main */
+/* #region Main */
 #site_main {
   background-color: rgb(31, 31, 156);
   min-height: 100vh;
+}
+
+/* #endregion Main */
+
+/* region Div */
+.wireframe_card
+{
+  color: white;
+  text-align: center;
+  padding: 48px 24px;
+}
+
+.wireframe_card h2
+{
+  font-family: "Sigmar", sans-serif;
+}
+
+.site_button
+{
+
 }
